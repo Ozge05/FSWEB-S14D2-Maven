@@ -1,7 +1,11 @@
 package org.example;
 
+import org.example.model.Bedroom;
+import org.example.model.Lamp;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Bedroom bdroom = Lamp.LampType;
+
     }
 }
